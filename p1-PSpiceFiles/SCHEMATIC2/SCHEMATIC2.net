@@ -1,0 +1,23 @@
+* source P1
+R_R1         0 N00078  2.2k TC=0,0 
+R_R2         N06630 VCC  2k TC=0,0 
+R_R3         N00213 VCC  15 TC=0,0 
+R_R4         N00470 N00266  680 TC=0,0 
+R_R5         N00226 N00266  15 TC=0,0 
+R_R6         N00470 0  330 TC=0,0 
+C_C4         N00226 N00213  2.2u  TC=0,0 
+C_C6         N00213 VCC  2.2u  TC=0,0 
+Q_Q3         N00281 N00078 N06630 BC856B 
+X_D4         N00078 VCC awbbzx84c2v7 PARAMS:               
+V_V1         VCC 0 11Vdc
+R_R13         N00213 N22112  100k TC=0,0 
+Q_Q4         N22250 N22112 N22275 BC817-25 
+Q_Q5         N26331 N22250 N22275 BC817-25 
+R_R14         0 N22275  6.8k TC=0,0 
+R_R15         N22250 VCC  2.5k TC=0,0 
+R_R16         N26331 VCC  2.5k TC=0,0 
+R_R17         N26331 N28226  50k TC=0,0 
+C_C9         0 N28226  22n  TC=0,0 
+R_R18         0 N28226  400 TC=0,0 
+Q_Q6         N00281 N00266 0 BC817-25 
+Q_Q7         N00213 N00281 N00470 BC817-25 

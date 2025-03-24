@@ -1,0 +1,53 @@
+
+**** 11/04/23 19:17:26 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC2-oscilator"  [ c:\users\vladc\desktop\tie\p1-PSpiceFiles\SCHEMATIC2\oscilator.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "oscilator.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\vladc\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 5 0.1 0.1 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC2.net" 
+
+
+
+**** INCLUDING SCHEMATIC2.net ****
+* source P1
+X_D2         N00078 11V awbbzx84c2v7 PARAMS:               
+R_R1         GND N00078  1.8k TC=0,0 
+R_R2         N06630 11V  2.2k TC=0,0 
+R_R3         N00213 11V  1033 TC=0,0 
+R_R4         N00395 N00266  220 TC=0,0 
+R_R5         N00226 N00266  1033 TC=0,0 
+R_R6         N00395 GND  100 TC=0,0 
+R_R7         N05931 GND  400 TC=0,0 
+C_C4         N00226 N00213  22n  TC=0,0 
+C_C5         N00213 N05931  C  TC=0,0 
+-------------------------------$
+ERROR(ORPSIM-16152): Invalid number: Error while converting token 'TC' to double value. Token can be a constant or expression
+C_C6         N00213 11V  22n  TC=0,0 
+Q_Q4         N06630 N00078 N00281 BC856B 
+Q_Q5         N00281 N00266 GND BC846B 
+Q_Q6         N00213 N00281 N00395 BC846B 
+
+**** RESUMING oscilator.cir ****
+.END
+

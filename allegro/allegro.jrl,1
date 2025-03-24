@@ -1,0 +1,2306 @@
+\t (00:00:01) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Dec 19 00:14:36 2023
+\t (00:00:01)         Host=DESKTOP-UE7PABN User=kellyy Pid=12668 CPUs=12
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/kellyy/Desktop/P1/allegro/OSCILATOR4.brd
+\i (00:00:04) trapsize 2906
+\i (00:00:04) trapsize 2976
+\i (00:00:04) trapsize 2989
+\i (00:00:04) trapsize 2644
+\i (00:00:04) trapsize 38089
+\i (00:00:04) trapsize 35017
+\i (00:00:04) generaledit 
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 500.24 671.40
+\i (00:00:14) trapsize 1322
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 500.24 668.76
+\i (00:00:14) trapsize 661
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 500.24 668.77
+\i (00:00:16) trapsize 331
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 528.00 672.74
+\i (00:00:17) trapsize 661
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 535.93 666.13
+\i (00:00:17) trapsize 1322
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 1236.70 774.56
+\i (00:00:17) trapsize 661
+\i (00:00:18) roam x -96 
+\i (00:00:18) roam x -96
+\i (00:00:19) roam y -96 
+\i (00:00:19) roam y -96
+\i (00:00:19) roam y -96 
+\i (00:00:19) roam y -96
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 139.84 767.21
+\i (00:00:26) trapsize 331
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 139.84 767.21
+\i (00:00:26) trapsize 165
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 142.48 769.86
+\i (00:00:27) trapsize 331
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 142.47 769.86
+\i (00:00:27) trapsize 661
+\i (00:00:32) cmgr 
+\i (00:00:33) setwindow cmgr
+\i (00:00:33) cm newView ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" 410:Design 411:Outline )
+\i (00:00:33) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" "402:DFF Constraint Set" 403:Outline )
+\i (00:00:33) cm newView ( kConsmgr worksheet "171:Same Net Spacing" 204:Region "205:All Layers" "337:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" 204:Region "205:All Layers" "337:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "343:CSet assignment matrix" "342:CSet assignment matrix" )
+\i (00:00:33) cm newView ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:00:33) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:00:33) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:00:33) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:33) setwindow pcb
+\i (00:00:33) generaledit 
+\i (00:00:37) setwindow cmgr
+\i (00:00:37) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:00:37) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:00:50) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:00:50) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:00:51) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:00:51) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:00:53) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:00:53) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:00:54) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:00:54) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:01:03) cm scope Design "OSCILATOR4"
+\i (00:01:03) cm putValue ( Net "GND" ) SN_LINE_SPACING 12 7 ( Net "GND" )
+\i (00:01:03) cm endUndoBlock
+\i (00:01:14) setwindow pcb
+\i (00:01:14) undo 
+\i (00:01:14) setwindow cmgr
+\i (00:01:14) cm exit
+\i (00:01:14) setwindow pcb
+\i (00:01:14) generaledit 
+\i (00:01:21) cmgr 
+\i (00:01:21) setwindow cmgr
+\i (00:01:21) cm newView ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:01:21) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:21) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:21) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:01:21) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" 410:Design 411:Outline )
+\i (00:01:21) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" "402:DFF Constraint Set" 403:Outline )
+\i (00:01:21) cm newView ( kConsmgr worksheet "171:Same Net Spacing" 204:Region "205:All Layers" "337:All Layers" )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:01:21) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" 204:Region "205:All Layers" "337:All Layers" ) 0
+\i (00:01:21) cm newView ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:01:21) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:21) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:21) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" ) 0
+\i (00:01:21) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:01:21) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:21) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:21) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:01:21) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:01:21) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:21) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:21) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:01:21) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:01:21) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:01:22) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:22) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:22) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:01:22) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:01:22) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:01:22) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "343:CSet assignment matrix" "342:CSet assignment matrix" )
+\i (00:01:22) cm newView ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:01:22) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" ) 0
+\i (00:01:22) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:01:22) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:22) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:22) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring ) 0
+\i (00:01:22) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:01:22) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring ) 0
+\i (00:01:22) cm newView ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:01:22) cm selectDesignTab ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" ) 0
+\i (00:01:22) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:01:22) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:22) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:22) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:01:22) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:22) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:22) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:01:22) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:01:22) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:22) setwindow pcb
+\i (00:01:22) generaledit 
+\i (00:01:26) setwindow cmgr
+\i (00:01:26) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:01:26) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:01:30) setwindow pcb
+\i (00:01:30) QtFillin OK
+\i (00:01:32) setwindow cmgr
+\i (00:01:32) cm scope Design "OSCILATOR4"
+\i (00:01:32) cm putValue ( Net "GND" ) SN_THRUPIN_SPACING 12 7 ( Net "GND" )
+\i (00:01:33) cm endUndoBlock
+\i (00:01:36) cm putValue ( Net "N94313" ) SN_LINE_SPACING 1 7 ( Net "N94313" )
+\i (00:01:36) cm endUndoBlock
+\i (00:01:39) cm putValue ( Net "N94313" ) SN_LINE_SPACING 12 7 ( Net "N94313" )
+\i (00:01:39) cm endUndoBlock
+\i (00:01:40) cm putValue ( Net "N94383" ) SN_LINE_SPACING 12 7 ( Net "N94383" )
+\i (00:01:40) cm endUndoBlock
+\i (00:01:42) cm putValue ( Net "N94397" ) SN_LINE_SPACING 12 7 ( Net "N94397" )
+\i (00:01:42) cm endUndoBlock
+\i (00:01:43) cm putValue ( Net "N94495" ) SN_LINE_SPACING 12 7 ( Net "N94495" )
+\i (00:01:43) cm endUndoBlock
+\i (00:01:44) cm putValue ( Net "N94501" ) SN_LINE_SPACING 12 7 ( Net "N94501" )
+\i (00:01:44) cm endUndoBlock
+\i (00:01:45) cm putValue ( Net "N94547" ) SN_LINE_SPACING 12 7 ( Net "N94547" )
+\i (00:01:45) cm endUndoBlock
+\i (00:01:47) cm putValue ( Net "N94637" ) SN_LINE_SPACING 12 7 ( Net "N94637" )
+\i (00:01:47) cm endUndoBlock
+\i (00:01:49) cm putValue ( Net "N94669" ) SN_LINE_SPACING 12 7 ( Net "N94669" )
+\i (00:01:49) cm endUndoBlock
+\i (00:01:49) cm putValue ( Net "N94751" ) SN_LINE_SPACING 12 7 ( Net "N94751" )
+\i (00:01:49) cm endUndoBlock
+\i (00:01:50) cm putValue ( Net "N94757" ) SN_LINE_SPACING 12 7 ( Net "N94757" )
+\i (00:01:50) cm endUndoBlock
+\i (00:01:51) cm putValue ( Net "N94781" ) SN_LINE_SPACING 12 7 ( Net "N94781" )
+\i (00:01:51) cm endUndoBlock
+\i (00:01:52) cm putValue ( Net "N94831" ) SN_LINE_SPACING 12 7 ( Net "N94831" )
+\i (00:01:52) cm endUndoBlock
+\i (00:01:53) cm putValue ( Net "N94841" ) SN_LINE_SPACING 12 7 ( Net "N94841" )
+\i (00:01:53) cm endUndoBlock
+\i (00:01:54) cm putValue ( Net "N94865" ) SN_LINE_SPACING 12 7 ( Net "N94865" )
+\i (00:01:54) cm endUndoBlock
+\i (00:01:55) cm putValue ( Net "N95013" ) SN_LINE_SPACING 12 7 ( Net "N95013" )
+\i (00:01:55) cm endUndoBlock
+\i (00:01:56) cm putValue ( Net "N95079" ) SN_LINE_SPACING 12 7 ( Net "N95079" )
+\i (00:01:56) cm endUndoBlock
+\i (00:01:57) cm putValue ( Net "N95085" ) SN_LINE_SPACING 12 7 ( Net "N95085" )
+\i (00:01:57) cm endUndoBlock
+\i (00:01:58) cm putValue ( Net "N95089" ) SN_LINE_SPACING 12 7 ( Net "N95089" )
+\i (00:01:58) cm endUndoBlock
+\i (00:01:59) cm putValue ( Net "N95235" ) SN_LINE_SPACING 12 7 ( Net "N95235" )
+\i (00:01:59) cm endUndoBlock
+\i (00:02:00) cm putValue ( Net "N95241" ) SN_LINE_SPACING 12 7 ( Net "N95241" )
+\i (00:02:00) cm endUndoBlock
+\i (00:02:01) cm putValue ( Net "N95307" ) SN_LINE_SPACING 12 7 ( Net "N95307" )
+\i (00:02:01) cm endUndoBlock
+\i (00:02:01) cm putValue ( Net "N95407" ) SN_LINE_SPACING 12 7 ( Net "N95407" )
+\i (00:02:01) cm endUndoBlock
+\i (00:02:07) cm putValue ( Net "N945811" ) SN_LINE_SPACING 12 7 ( Net "N945811" )
+\i (00:02:07) cm endUndoBlock
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:02:09) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:02:09) cm exit
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom out 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom out 573.52 1043.55
+\i (00:02:10) trapsize 1322
+\i (00:02:10) zoom out 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom out 586.75 1032.98
+\i (00:02:10) trapsize 2644
+\i (00:02:10) zoom in 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom in 1637.22 599.28
+\i (00:02:10) trapsize 1322
+\i (00:02:10) zoom in 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom in 1624.00 562.26
+\i (00:02:10) trapsize 661
+\i (00:02:11) zoom out 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom out 1584.34 574.16
+\i (00:02:11) trapsize 1322
+\i (00:02:11) zoom out 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom out 1581.69 576.80
+\i (00:02:11) trapsize 2644
+\i (00:02:12) zoom in 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom in 389.04 915.30
+\i (00:02:12) trapsize 1322
+\i (00:02:12) zoom in 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom in 158.97 1021.08
+\i (00:02:12) trapsize 661
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 49.23 1363.54
+\i (00:02:13) trapsize 1322
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in 83.61 1469.32
+\i (00:02:13) trapsize 661
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in 83.61 1470.64
+\i (00:02:13) trapsize 331
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 78.99 1479.90
+\i (00:02:14) trapsize 661
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 77.66 1478.58
+\i (00:02:14) trapsize 1322
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 61.79 1520.90
+\i (00:02:15) trapsize 661
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 61.80 1520.90
+\i (00:02:15) trapsize 331
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 62.46 1518.25
+\i (00:02:15) trapsize 165
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 49.24 1500.73
+\i (00:02:16) trapsize 83
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 49.24 1500.24
+\i (00:02:16) trapsize 41
+\i (00:02:17) pick grid 48.42 1495.03
+\t (00:02:17) last pick:  48.00 1495.00
+\i (00:02:26) setwindow form.find
+\i (00:02:26) FORM find text NO 
+\i (00:02:30) FORM find shapes YES 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) prepopup 47.92 1457.43
+\i (00:02:33) pop dyn_option_select @:@Delete 
+\i (00:02:33) delete 
+\i (00:02:33) generaledit 
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 56.60 1455.28
+\i (00:02:34) trapsize 83
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 56.60 1455.29
+\i (00:02:34) trapsize 165
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 56.61 1455.29
+\i (00:02:34) trapsize 331
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 60.57 1451.32
+\i (00:02:34) trapsize 661
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 72.47 1449.99
+\i (00:02:34) trapsize 1322
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 447.99 1389.18
+\i (00:02:34) trapsize 2644
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 1442.30 1198.77
+\i (00:02:35) trapsize 5289
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out -1631.33 1082.42
+\i (00:02:35) trapsize 10533
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 4212.64 752.91
+\i (00:02:36) trapsize 5266
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 1598.02 963.57
+\i (00:02:36) trapsize 2633
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 1629.62 963.58
+\i (00:02:36) trapsize 1317
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 1629.62 963.58
+\i (00:02:36) trapsize 658
+\i (00:02:39) shape add rect 
+\i (00:02:40) zoom out 1 
+\i (00:02:40) setwindow pcb
+\i (00:02:40) zoom out 447.31 1292.73
+\i (00:02:40) trapsize 1317
+\i (00:02:40) zoom out 1 
+\i (00:02:40) setwindow pcb
+\i (00:02:40) zoom out 291.95 1303.26
+\i (00:02:40) trapsize 2633
+\i (00:02:43) setwindow form.mini
+\i (00:02:43) FORM mini class ETCH 
+\i (00:02:45) FORM mini dyns_netname_list  
+\i (00:02:47) fillin "Gnd"
+\t (00:02:47) Assigning selected shape to net: GND
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 139.22 1598.18
+\i (00:02:48) trapsize 1317
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 186.62 1585.02
+\i (00:02:48) trapsize 658
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 181.36 1574.49
+\i (00:02:48) trapsize 329
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 124.74 1522.48
+\i (00:02:48) trapsize 165
+\i (00:02:49) zoom in 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom in 75.70 1501.75
+\i (00:02:49) trapsize 82
+\i (00:02:49) zoom in 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom in 66.16 1503.23
+\i (00:02:49) trapsize 41
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 53.98 1513.44
+\i (00:02:49) trapsize 82
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 52.99 1512.77
+\i (00:02:49) trapsize 165
+\i (00:02:51) zoom in 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom in 49.71 1524.96
+\i (00:02:51) trapsize 82
+\i (00:02:52) zoom out 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom out 50.53 1528.58
+\i (00:02:52) trapsize 165
+\i (00:02:52) zoom out 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom out 51.19 1530.23
+\i (00:02:52) trapsize 329
+\i (00:02:52) zoom out 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom out 57.77 1535.50
+\i (00:02:52) trapsize 658
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 59.09 1532.87
+\i (00:02:53) trapsize 329
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 59.09 1532.87
+\i (00:02:53) trapsize 165
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 58.43 1532.55
+\i (00:02:53) trapsize 82
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 54.97 1529.75
+\i (00:02:53) trapsize 41
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 54.81 1529.01
+\i (00:02:53) trapsize 21
+\i (00:02:54) pick grid 47.86 1526.87
+\t (00:02:54) last pick:  48.00 1527.00
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 78.75 1511.69
+\i (00:02:55) trapsize 41
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 79.58 1510.95
+\i (00:02:55) trapsize 82
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 83.36 1508.15
+\i (00:02:55) trapsize 165
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 85.99 1507.17
+\i (00:02:55) trapsize 329
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 222.24 1468.99
+\i (00:02:55) trapsize 658
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 265.68 1443.97
+\i (00:02:55) trapsize 1316
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 352.57 1401.84
+\i (00:02:55) trapsize 2633
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 552.67 1322.85
+\i (00:02:56) trapsize 5266
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 1395.22 37.96
+\i (00:02:56) trapsize 2633
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 1484.75 -4.16
+\i (00:02:56) trapsize 1316
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 1529.51 74.83
+\i (00:02:57) trapsize 658
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 1528.19 74.83
+\i (00:02:57) trapsize 329
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 1515.69 61.01
+\i (00:02:57) trapsize 165
+\i (00:02:58) zoom in 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom in 1515.69 59.36
+\i (00:02:58) trapsize 82
+\i (00:02:58) zoom in 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom in 1517.50 53.77
+\i (00:02:58) trapsize 41
+\i (00:02:58) zoom out 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out 1523.76 50.32
+\i (00:02:58) trapsize 82
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out 1525.73 49.66
+\i (00:02:59) trapsize 165
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 1527.71 48.34
+\i (00:03:00) trapsize 82
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 1527.54 48.17
+\i (00:03:00) trapsize 41
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 1527.46 48.18
+\i (00:03:00) trapsize 21
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 1527.14 48.55
+\i (00:03:01) trapsize 10
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 1526.77 48.78
+\i (00:03:01) trapsize 5
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 1526.80 48.67
+\i (00:03:01) trapsize 3
+\i (00:03:02) roam y 96 
+\i (00:03:02) roam y 96
+\i (00:03:03) roam y 96 
+\i (00:03:03) roam y 96
+\i (00:03:03) roam y 96 
+\i (00:03:03) roam y 96
+\i (00:03:03) roam y 96 
+\i (00:03:03) roam y 96
+\i (00:03:03) roam y 96 
+\i (00:03:03) roam y 96
+\i (00:03:06) pick grid 1527.38 47.50
+\t (00:03:06) last pick:  1527.00 48.00
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1527.22 47.71
+\i (00:03:06) trapsize 5
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1527.23 47.69
+\i (00:03:06) trapsize 10
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1527.23 47.68
+\i (00:03:06) trapsize 21
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1527.22 47.69
+\i (00:03:06) trapsize 41
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1527.23 47.68
+\i (00:03:06) trapsize 82
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1499.25 59.04
+\i (00:03:06) trapsize 165
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1494.65 59.36
+\i (00:03:06) trapsize 329
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1490.04 60.02
+\i (00:03:06) trapsize 658
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 1483.46 61.34
+\i (00:03:07) trapsize 1316
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 1449.23 74.51
+\i (00:03:07) trapsize 2633
+\i (00:03:07) roam x -96 
+\i (00:03:07) roam x -96
+\i (00:03:07) roam y -96 
+\i (00:03:07) roam y -96
+\i (00:03:07) roam x 96 
+\i (00:03:07) roam x 96
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in 840.58 599.38
+\i (00:03:08) trapsize 1316
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in 840.58 599.38
+\i (00:03:08) trapsize 658
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in 840.58 600.70
+\i (00:03:08) trapsize 329
+\i (00:03:10) roam x -96 
+\i (00:03:10) roam x -96
+\i (00:03:11) roam x -96 
+\i (00:03:11) roam x -96
+\i (00:03:11) roam y -96 
+\i (00:03:11) roam y -96
+\i (00:03:11) roam y -96 
+\i (00:03:11) roam y -96
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 377.16 797.50
+\i (00:03:12) trapsize 658
+\i (00:03:12) roam x 96 
+\i (00:03:12) roam x 96
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out 507.48 786.98
+\i (00:03:15) trapsize 1316
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out 507.48 786.98
+\i (00:03:15) trapsize 2633
+\i (00:03:15) zoom in 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom in 771.56 1081.87
+\i (00:03:15) trapsize 1316
+\i (00:03:16) zoom in 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom in 774.19 1084.50
+\i (00:03:16) trapsize 658
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in 396.37 480.24
+\i (00:03:20) trapsize 329
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in 407.56 457.87
+\i (00:03:20) trapsize 165
+\i (00:03:22) zoom out 1 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom out 399.00 462.48
+\i (00:03:22) trapsize 329
+\i (00:03:23) zoom out 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom out 404.27 480.24
+\i (00:03:23) trapsize 658
+\i (00:03:25) roam y -96 
+\i (00:03:25) roam y -96
+\i (00:03:25) roam y -96 
+\i (00:03:25) roam y -96
+\i (00:03:27) pick grid 998.00 1597.27
+\t (00:03:27) last pick:  998.00 1597.00
+\i (00:03:28) prepopup 372.67 1661.77
+\i (00:03:28) done 
+\i (00:03:28) generaledit 
+\i (00:03:30) save 
+\i (00:03:31) fillin yes 
+   (00:03:31) Loading consmgr.cxt 
+   (00:03:31) Loading acns_formula.cxt 
+\i (00:03:31) generaledit 
+\i (00:03:35) cmgr 
+\i (00:03:35) setwindow cmgr
+\i (00:03:35) cm newView ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" 410:Design 411:Outline )
+\i (00:03:35) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" "402:DFF Constraint Set" 403:Outline )
+\i (00:03:35) cm newView ( kConsmgr worksheet "171:Same Net Spacing" 204:Region "205:All Layers" "337:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" 204:Region "205:All Layers" "337:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "343:CSet assignment matrix" "342:CSet assignment matrix" )
+\i (00:03:35) cm newView ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 78:Spacing 126:Region "127:All Layers" "134:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:03:35) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:35) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:03:35) cm newView ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:03:36) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:36) cm expand ( row ( Design "OSCILATOR4" ) )
+\i (00:03:36) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" 189:Net "190:All Layers" "336:All Layers" ) 0
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:03:36) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:03:36) setwindow pcb
+\i (00:03:36) generaledit 
+\i (00:03:39) setwindow cmgr
+\i (00:03:39) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:03:39) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:03:44) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:03:44) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:03:46) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:03:46) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 204:Region "205:All Layers" ) )
+\i (00:03:47) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:03:47) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" 189:Net "190:All Layers" ) )
+\i (00:03:48) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:03:48) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:03:49) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:49) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:53) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:03:53) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:03:56) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:03:56) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:03:58) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "343:CSet assignment matrix" ) )
+\i (00:03:58) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:03:58) cm select ( frame ( kConsmgr workbook 78:Spacing 126:Region "127:All Layers" ) )
+\i (00:03:59) cm select ( frame ( kConsmgr workbook 78:Spacing "346:Inter Layer" 344:Spacing ) )
+\i (00:03:59) setwindow pcb
+\i (00:03:59) QtSignal ILC_widget345 ILC_m_cbCls1345 CurrentIndexChanged Geometries
+\i (00:03:59) QtSignal ILC_widget345 ILC_m_cbCls2345 CurrentIndexChanged Geometries
+\i (00:04:01) setwindow cmgr
+\i (00:04:01) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:04:01) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:04:02) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:04:02) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:04:07) cm scope Design "OSCILATOR4"
+\i (00:04:07) cm putValue ( "Spacing CSet" "DEFAULT" ) LINE_SPACING 12 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:04:07) cm endUndoBlock
+\i (00:04:08) cm putValue ( "Spacing CSet" "DEFAULT" ) SMDPIN_SPACING 12 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:04:08) cm endUndoBlock
+\i (00:04:13) setwindow pcb
+\i (00:04:13) QtFillin Cancel
+\i (00:04:15) setwindow cmgr
+\i (00:04:15) cm putValue ( "Spacing CSet" "DEFAULT" ) TESTPIN_SPACING 12 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:04:15) cm endUndoBlock
+\i (00:04:17) cm putValue ( "Spacing CSet" "DEFAULT" ) THRUVIA_SPACING 12 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:04:17) cm endUndoBlock
+\i (00:04:19) cm putValue ( "Spacing CSet" "DEFAULT" ) BBV_SPACING 12 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:04:19) cm endUndoBlock
+\i (00:04:20) cm putValue ( "Spacing CSet" "DEFAULT" ) TESTVIA_SPACING 12 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:04:20) cm endUndoBlock
+\i (00:04:22) cm putValue ( "Spacing CSet" "DEFAULT" ) SHAPE_SPACING 12 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:04:22) cm endUndoBlock
+\i (00:04:32) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:32) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:40) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:04:40) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:04:47) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:05:00) cm putValue ( Net "GND" ) DIFFP_MIN_SPACE 16 7 ( Net "GND" )
+\i (00:05:00) cm endUndoBlock
+\i (00:05:07) cm putValue ( Net "N94313" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94313" )
+\i (00:05:07) cm putValue ( Net "N94383" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94383" )
+\i (00:05:07) cm putValue ( Net "N94397" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94397" )
+\i (00:05:07) cm putValue ( Net "N94495" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94495" )
+\i (00:05:07) cm putValue ( Net "N94501" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94501" )
+\i (00:05:07) cm putValue ( Net "N94547" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94547" )
+\i (00:05:07) cm putValue ( Net "N94637" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94637" )
+\i (00:05:07) cm putValue ( Net "N94669" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94669" )
+\i (00:05:07) cm putValue ( Net "N94751" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94751" )
+\i (00:05:07) cm putValue ( Net "N94757" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94757" )
+\i (00:05:07) cm putValue ( Net "N94781" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94781" )
+\i (00:05:07) cm putValue ( Net "N94831" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94831" )
+\i (00:05:07) cm putValue ( Net "N94841" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94841" )
+\i (00:05:07) cm putValue ( Net "N94865" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N94865" )
+\i (00:05:07) cm putValue ( Net "N95013" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N95013" )
+\i (00:05:07) cm putValue ( Net "N95079" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N95079" )
+\i (00:05:07) cm putValue ( Net "N95085" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N95085" )
+\i (00:05:07) cm putValue ( Net "N95089" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N95089" )
+\i (00:05:07) cm putValue ( Net "N95235" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N95235" )
+\i (00:05:07) cm putValue ( Net "N95241" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N95241" )
+\i (00:05:07) cm putValue ( Net "N95307" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N95307" )
+\i (00:05:07) cm putValue ( Net "N95407" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N95407" )
+\i (00:05:07) cm putValue ( Net "N945811" ) DIFFP_MIN_SPACE 16.00 7 ( Net "N945811" )
+\i (00:05:07) cm endUndoBlock
+\i (00:05:10) cm exit
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 1352.14 1132.55
+\i (00:05:10) trapsize 1316
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 1157.30 479.57
+\i (00:05:11) trapsize 2633
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 1410.05 -4.90
+\i (00:05:11) trapsize 1316
+\i (00:05:12) zoom in 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom in 1412.68 -7.53
+\i (00:05:12) trapsize 658
+\i (00:05:13) zoom out 1 
+\i (00:05:13) setwindow pcb
+\i (00:05:13) zoom out 1015.11 103.06
+\i (00:05:13) trapsize 1316
+\i (00:05:13) zoom in 1 
+\i (00:05:13) setwindow pcb
+\i (00:05:13) zoom in 517.48 863.99
+\i (00:05:13) trapsize 658
+\i (00:05:14) zoom out 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom out 446.39 962.73
+\i (00:05:14) trapsize 1316
+\i (00:05:19) pick grid -3.84 9.60
+\t (00:05:19) last pick:  -4.00 10.00
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 51.45 49.09
+\i (00:05:19) trapsize 658
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 51.45 49.09
+\i (00:05:19) trapsize 329
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 51.45 49.09
+\i (00:05:19) trapsize 165
+\i (00:05:20) zoom in 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom in 51.13 56.34
+\i (00:05:20) trapsize 82
+\i (00:05:20) zoom in 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom in 50.96 56.34
+\i (00:05:20) trapsize 41
+\i (00:05:20) zoom in 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom in 50.97 56.34
+\i (00:05:20) trapsize 21
+\i (00:05:21) prepopup 48.01 56.55
+\i (00:05:23) pop dyn_option_select @:@Delete 
+\i (00:05:23) delete 
+\i (00:05:23) generaledit 
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 48.54 53.54
+\i (00:05:23) trapsize 41
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 48.54 53.54
+\i (00:05:23) trapsize 82
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 48.54 53.55
+\i (00:05:23) trapsize 165
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 47.56 56.84
+\i (00:05:23) trapsize 329
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 52.83 60.13
+\i (00:05:23) trapsize 658
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 56.78 66.70
+\i (00:05:23) trapsize 1316
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 98.90 153.59
+\i (00:05:23) trapsize 2633
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 176.51 1243.65
+\i (00:05:24) trapsize 1316
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 242.33 1317.37
+\i (00:05:24) trapsize 658
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 242.33 1317.37
+\i (00:05:24) trapsize 329
+\i (00:05:27) shape add rect 
+\i (00:05:28) zoom in 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom in 52.76 1554.34
+\i (00:05:28) trapsize 165
+\i (00:05:28) zoom in 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom in 54.08 1552.04
+\i (00:05:28) trapsize 82
+\i (00:05:28) zoom in 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom in 54.41 1550.72
+\i (00:05:28) trapsize 41
+\i (00:05:28) zoom in 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom in 47.34 1521.19
+\i (00:05:28) trapsize 21
+\i (00:05:28) zoom in 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom in 47.38 1521.28
+\i (00:05:28) trapsize 10
+\i (00:05:29) zoom in 1 
+\i (00:05:29) setwindow pcb
+\i (00:05:29) zoom in 47.36 1527.63
+\i (00:05:29) trapsize 5
+\i (00:05:29) zoom in 1 
+\i (00:05:29) setwindow pcb
+\i (00:05:29) zoom in 47.38 1527.33
+\i (00:05:29) trapsize 3
+\i (00:05:32) pick grid 47.28 1527.49
+\t (00:05:32) last pick:  47.00 1527.00
+\i (00:05:33) prepopup 47.46 1527.43
+\i (00:05:34) oops 
+\i (00:05:35) pick grid 47.44 1527.33
+\t (00:05:35) last pick:  47.00 1527.00
+\i (00:05:37) prepopup 49.89 1526.85
+\i (00:05:39) oops 
+\i (00:05:41) setwindow form.mini
+\i (00:05:41) FORM mini dyns_netname_list  
+\i (00:05:43) fillin "Gnd"
+\t (00:05:43) Assigning selected shape to net: GND
+\i (00:05:49) setwindow pcb
+\i (00:05:49) pick grid 47.60 1527.34
+\t (00:05:49) last pick:  48.00 1527.00
+\i (00:05:51) prepopup 48.30 1526.69
+\i (00:05:52) oops 
+\i (00:05:52) pick grid 47.42 1527.37
+\t (00:05:52) last pick:  47.00 1527.00
+\i (00:05:53) prepopup 50.16 1526.16
+\i (00:05:54) oops 
+\i (00:05:59) pick grid 49.91 1527.04
+\t (00:05:59) last pick:  50.00 1527.00
+\i (00:06:00) prepopup 47.62 1527.44
+\i (00:06:00) done 
+\i (00:06:00) generaledit 
+\i (00:06:01) pick grid 47.32 1527.43
+\t (00:06:01) last pick:  47.00 1527.00
+\i (00:06:03) pick grid 47.42 1527.41
+\t (00:06:03) last pick:  47.00 1527.00
+\i (00:06:05) shape add rect 
+\i (00:06:06) pick grid 47.31 1527.48
+\t (00:06:06) last pick:  47.00 1527.00
+\i (00:06:07) prepopup 48.42 1527.39
+\i (00:06:08) pick grid 48.49 1527.44
+\t (00:06:08) last pick:  48.00 1527.00
+\t (00:06:08) last pick:  47.00 1527.00
+\e (00:06:08) ERROR(SPMHA1-387): Segment crosses the shape ... pick again.
+\i (00:06:10) prepopup 51.43 1526.80
+\i (00:06:11) oops 
+\i (00:06:12) pick grid 47.53 1527.45
+\t (00:06:12) last pick:  48.00 1527.00
+\i (00:06:13) zoom out 1 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) zoom out 50.66 1525.94
+\i (00:06:13) trapsize 5
+\i (00:06:13) zoom out 1 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) zoom out 50.90 1525.75
+\i (00:06:13) trapsize 10
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 55.57 1523.09
+\i (00:06:14) trapsize 21
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 56.11 1522.51
+\i (00:06:14) trapsize 41
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 64.09 1518.89
+\i (00:06:14) trapsize 82
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 64.25 1518.56
+\i (00:06:14) trapsize 165
+\i (00:06:16) zoom out 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom out 85.31 1491.91
+\i (00:06:16) trapsize 329
+\i (00:06:16) zoom out 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom out 88.60 1491.25
+\i (00:06:16) trapsize 658
+\i (00:06:16) zoom out 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom out 105.71 1484.67
+\i (00:06:16) trapsize 1316
+\i (00:06:16) zoom out 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom out 134.66 1479.41
+\i (00:06:16) trapsize 2633
+\i (00:06:16) zoom out 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom out 218.92 1426.75
+\i (00:06:16) trapsize 5266
+\i (00:06:16) zoom out 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom out 534.88 1016.95
+\i (00:06:16) trapsize 10533
+\i (00:06:17) zoom in 1 
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom in 4507.56 -1585.38
+\i (00:06:17) trapsize 5266
+\i (00:06:17) zoom in 1 
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom in 629.00 -26.52
+\i (00:06:17) trapsize 2633
+\i (00:06:18) zoom in 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom in 665.86 -31.78
+\i (00:06:18) trapsize 1317
+\i (00:06:18) zoom in 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom in 736.96 -34.41
+\i (00:06:18) trapsize 658
+\i (00:06:18) zoom out 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom out 1122.72 110.41
+\i (00:06:18) trapsize 1317
+\i (00:06:18) zoom out 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom out 1128.00 118.32
+\i (00:06:18) trapsize 2633
+\i (00:06:18) zoom out 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom out 1133.26 123.58
+\i (00:06:18) trapsize 5266
+\i (00:06:19) zoom in 1 
+\i (00:06:19) setwindow pcb
+\i (00:06:19) zoom in 1249.12 271.05
+\i (00:06:19) trapsize 2633
+\i (00:06:19) zoom in 1 
+\i (00:06:19) setwindow pcb
+\i (00:06:19) zoom in 1222.79 213.12
+\i (00:06:19) trapsize 1317
+\i (00:06:19) zoom in 1 
+\i (00:06:19) setwindow pcb
+\i (00:06:19) zoom in 1301.78 144.66
+\i (00:06:19) trapsize 658
+\i (00:06:19) zoom out 1 
+\i (00:06:19) setwindow pcb
+\i (00:06:19) zoom out 1314.95 140.71
+\i (00:06:19) trapsize 1317
+\i (00:06:19) zoom out 1 
+\i (00:06:19) setwindow pcb
+\i (00:06:19) zoom out 1314.95 140.71
+\i (00:06:19) trapsize 2633
+\i (00:06:19) zoom out 1 
+\i (00:06:19) setwindow pcb
+\i (00:06:19) zoom out 1314.94 140.71
+\i (00:06:19) trapsize 5266
+\i (00:06:20) zoom in 1 
+\i (00:06:20) setwindow pcb
+\i (00:06:20) zoom in 1504.54 88.04
+\i (00:06:20) trapsize 2633
+\i (00:06:21) roam x 96 
+\i (00:06:21) roam x 96
+\i (00:06:21) roam x 96 
+\i (00:06:21) roam x 96
+\i (00:06:21) zoom in 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in 1700.55 -75.22
+\i (00:06:21) trapsize 1317
+\i (00:06:21) zoom in 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in 1611.02 32.74
+\i (00:06:21) trapsize 658
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 1609.71 36.69
+\i (00:06:22) trapsize 329
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 1520.84 50.52
+\i (00:06:22) trapsize 165
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 1519.20 50.52
+\i (00:06:22) trapsize 82
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 1519.03 50.52
+\i (00:06:22) trapsize 41
+\i (00:06:26) pick grid 1526.60 47.56
+\t (00:06:26) last pick:  1527.00 48.00
+\i (00:06:26) roam x -96 
+\i (00:06:26) roam x -96
+\i (00:06:26) roam x -96 
+\i (00:06:26) roam x -96
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 1510.63 48.30
+\i (00:06:26) trapsize 82
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 1510.62 48.29
+\i (00:06:26) trapsize 165
+\i (00:06:27) roam x -96 
+\i (00:06:27) roam x -96
+\i (00:06:27) zoom out 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 1473.11 48.63
+\i (00:06:27) trapsize 329
+\i (00:06:27) zoom out 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 1463.90 43.36
+\i (00:06:27) trapsize 658
+\i (00:06:27) roam x -96 
+\i (00:06:27) roam x -96
+\i (00:06:27) roam x -96 
+\i (00:06:27) roam x -96
+\i (00:06:27) roam y -96 
+\i (00:06:27) roam y -96
+\i (00:06:28) roam y -96 
+\i (00:06:28) roam y -96
+\i (00:06:28) zoom in 1 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom in 200.64 299.84
+\i (00:06:28) trapsize 329
+\i (00:06:28) zoom in 1 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom in 199.98 293.92
+\i (00:06:28) trapsize 165
+\i (00:06:28) roam x -96 
+\i (00:06:28) roam x -96
+\i (00:06:28) roam y 96 
+\i (00:06:28) roam y 96
+\i (00:06:29) prepopup 237.83 226.44
+\i (00:06:31) done 
+\i (00:06:31) generaledit 
+\i (00:06:31) zoom out 1 
+\i (00:06:31) setwindow pcb
+\i (00:06:31) zoom out 216.11 199.13
+\i (00:06:31) trapsize 329
+\i (00:06:31) zoom in 1 
+\i (00:06:31) setwindow pcb
+\i (00:06:31) zoom in 212.81 198.46
+\i (00:06:31) trapsize 165
+\i (00:06:31) zoom in 1 
+\i (00:06:31) setwindow pcb
+\i (00:06:31) zoom in 213.14 200.77
+\i (00:06:31) trapsize 82
+\i (00:06:32) zoom in 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom in 213.31 201.27
+\i (00:06:32) trapsize 41
+\i (00:06:32) zoom out 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom out 216.11 200.78
+\i (00:06:32) trapsize 82
+\i (00:06:32) zoom out 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom out 216.11 200.77
+\i (00:06:32) trapsize 165
+\i (00:06:33) zoom in 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom in 248.05 209.00
+\i (00:06:33) trapsize 82
+\i (00:06:33) zoom in 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom in 245.91 207.85
+\i (00:06:33) trapsize 41
+\i (00:06:33) zoom in 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom in 244.60 206.95
+\i (00:06:33) trapsize 21
+\i (00:06:33) zoom in 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom in 244.60 206.95
+\i (00:06:33) trapsize 10
+\i (00:06:34) zoom out 1 
+\i (00:06:34) setwindow pcb
+\i (00:06:34) zoom out 244.52 206.93
+\i (00:06:34) trapsize 21
+\i (00:06:34) zoom out 1 
+\i (00:06:34) setwindow pcb
+\i (00:06:34) zoom out 244.53 206.93
+\i (00:06:34) trapsize 41
+\i (00:06:34) zoom out 1 
+\i (00:06:34) setwindow pcb
+\i (00:06:34) zoom out 244.52 206.94
+\i (00:06:34) trapsize 82
+\i (00:06:37) prepopup 238.77 210.23
+\i (00:06:39) pick grid 228.24 204.14
+\t (00:06:39) last pick:  228.00 204.00
+\i (00:06:40) setwindow form.find
+\i (00:06:40) FORM find all_on  
+\i (00:06:41) setwindow pcb
+\i (00:06:41) prepopup 213.92 181.59
+\i (00:06:43) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:06:43) mod padstack 
+\i (00:07:56) generaledit 
+\i (00:07:56) prepopup 202.24 186.86
+\i (00:07:58) pop dyn_option_select 'Replace padstack@:@All instances' 
+\i (00:07:58) rep padstack 
+\t (00:08:03) No valid name selected.
+\i (00:08:07) fillin "Marker1"
+\t (00:08:07) Performing DRC...
+\t (00:08:07) Multithreaded DRC update (12 threads).
+\t (00:08:08) No DRC errors detected.
+\i (00:08:08) generaledit 
+\i (00:08:12) zoom out 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom out 291.43 239.35
+\i (00:08:12) trapsize 165
+\i (00:08:12) zoom out 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom out 289.45 239.68
+\i (00:08:12) trapsize 329
+\i (00:08:12) zoom out 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom out 286.16 235.74
+\i (00:08:12) trapsize 658
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:13) roam y -96 
+\i (00:08:13) roam y -96
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:13) roam y -96 
+\i (00:08:13) roam y -96
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:14) roam x 96 
+\i (00:08:14) roam x 96
+\i (00:08:14) roam x 96 
+\i (00:08:14) roam x 96
+\i (00:08:14) roam y -96 
+\i (00:08:14) roam y -96
+\i (00:08:14) roam x 96 
+\i (00:08:14) roam x 96
+\i (00:08:15) roam y -96 
+\i (00:08:15) roam y -96
+\i (00:08:15) roam x 96 
+\i (00:08:15) roam x 96
+\i (00:08:15) zoom out 1 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom out 1569.88 767.88
+\i (00:08:15) trapsize 1316
+\i (00:08:15) roam y -96 
+\i (00:08:15) roam y -96
+\i (00:08:15) zoom in 1 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom in 1483.00 1410.32
+\i (00:08:15) trapsize 658
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 1468.52 1390.57
+\i (00:08:16) trapsize 329
+\i (00:08:16) roam y 96 
+\i (00:08:16) roam y 96
+\i (00:08:16) zoom out 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom out 1427.05 1314.22
+\i (00:08:16) trapsize 658
+\i (00:08:17) zoom in 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in 1396.77 1376.10
+\i (00:08:17) trapsize 329
+\i (00:08:17) zoom in 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in 1390.19 1378.07
+\i (00:08:17) trapsize 165
+\i (00:08:17) zoom in 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in 1388.55 1378.08
+\i (00:08:17) trapsize 82
+\i (00:08:19) prepopup 1374.57 1369.69
+\i (00:08:24) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:08:24) mod padstack 
+\i (00:08:29) generaledit 
+\i (00:08:29) zoom out 1 
+\i (00:08:29) setwindow pcb
+\i (00:08:29) zoom out 1391.85 1361.46
+\i (00:08:29) trapsize 165
+\i (00:08:29) zoom out 1 
+\i (00:08:29) setwindow pcb
+\i (00:08:29) zoom out 1391.51 1360.81
+\i (00:08:29) trapsize 329
+\i (00:08:31) prepopup 1372.42 1372.65
+\i (00:08:33) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:08:33) mod padstack 
+\i (00:08:47) generaledit 
+\i (00:08:49) zoom out 1 
+\i (00:08:49) setwindow pcb
+\i (00:08:49) zoom out 811.60 1256.80
+\i (00:08:49) trapsize 658
+\i (00:08:52) zoom in 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom in 1326.35 1321.31
+\i (00:08:52) trapsize 329
+\i (00:08:52) zoom in 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom in 1330.96 1321.98
+\i (00:08:52) trapsize 165
+\i (00:08:54) prepopup 1384.94 1377.60
+\i (00:08:58) pop dyn_option_select 'Replace padstack@:@All instances' 
+\i (00:08:58) rep padstack 
+\t (00:09:01) No valid name selected.
+\i (00:09:03) fillin "Marker1"
+\t (00:09:03) Performing DRC...
+\t (00:09:03) Multithreaded DRC update (12 threads).
+\t (00:09:04) No DRC errors detected.
+\i (00:09:04) generaledit 
+\i (00:09:04) zoom out 1 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) zoom out 1364.87 1341.40
+\i (00:09:04) trapsize 329
+\i (00:09:04) zoom out 1 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) zoom out 1364.20 1341.40
+\i (00:09:04) trapsize 658
+\i (00:09:05) roam x -96 
+\i (00:09:05) roam x -96
+\i (00:09:05) roam y 96 
+\i (00:09:05) roam y 96
+\i (00:09:05) roam x -96 
+\i (00:09:05) roam x -96
+\i (00:09:05) roam y 96 
+\i (00:09:05) roam y 96
+\i (00:09:06) roam x -96 
+\i (00:09:06) roam x -96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:07) roam y -96 
+\i (00:09:07) roam y -96
+\i (00:09:07) roam y -96 
+\i (00:09:07) roam y -96
+\i (00:09:08) roam y -96 
+\i (00:09:08) roam y -96
+\i (00:09:08) roam x 96 
+\i (00:09:08) roam x 96
+\i (00:09:08) roam y -96 
+\i (00:09:08) roam y -96
+\i (00:09:09) zoom in 1 
+\i (00:09:09) setwindow pcb
+\i (00:09:09) zoom in 1369.78 1368.20
+\i (00:09:09) trapsize 329
+\i (00:09:09) zoom in 1 
+\i (00:09:09) setwindow pcb
+\i (00:09:09) zoom in 1369.79 1368.20
+\i (00:09:09) trapsize 165
+\i (00:09:10) prepopup 1313.51 1347.14
+\i (00:09:10) pick grid 1361.89 1371.82
+\t (00:09:10) last pick:  1362.00 1372.00
+\i (00:09:11) pick grid 1318.45 1361.29
+\t (00:09:11) last pick:  1318.00 1361.00
+\i (00:09:12) roam x -96 
+\i (00:09:12) roam x -96
+\i (00:09:12) roam y 96 
+\i (00:09:12) roam y 96
+\i (00:09:12) roam x -96 
+\i (00:09:12) roam x -96
+\i (00:09:12) roam y 96 
+\i (00:09:12) roam y 96
+\i (00:09:12) roam x -96 
+\i (00:09:12) roam x -96
+\i (00:09:13) roam y 96 
+\i (00:09:13) roam y 96
+\i (00:09:13) roam y 96 
+\i (00:09:13) roam y 96
+\i (00:09:13) roam y 96 
+\i (00:09:13) roam y 96
+\i (00:09:13) zoom out 1 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom out 1156.51 1121.69
+\i (00:09:13) trapsize 329
+\i (00:09:13) roam x -96 
+\i (00:09:13) roam x -96
+\i (00:09:14) roam x -96 
+\i (00:09:14) roam x -96
+\i (00:09:14) roam y 96 
+\i (00:09:14) roam y 96
+\i (00:09:14) zoom out 1 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) zoom out 924.81 1003.53
+\i (00:09:14) trapsize 658
+\i (00:09:14) roam y 96 
+\i (00:09:14) roam y 96
+\i (00:09:14) roam y 96 
+\i (00:09:14) roam y 96
+\i (00:09:15) roam x -96 
+\i (00:09:15) roam x -96
+\i (00:09:15) zoom in 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom in 1450.08 1387.95
+\i (00:09:15) trapsize 329
+\i (00:09:15) zoom in 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom in 1451.40 1390.59
+\i (00:09:15) trapsize 165
+\i (00:09:15) roam y -96 
+\i (00:09:15) roam y -96
+\i (00:09:16) roam x 96 
+\i (00:09:16) roam x 96
+\i (00:09:16) roam y -96 
+\i (00:09:16) roam y -96
+\i (00:09:16) roam x 96 
+\i (00:09:16) roam x 96
+\i (00:09:16) roam y -96 
+\i (00:09:16) roam y -96
+\i (00:09:16) roam x 96 
+\i (00:09:16) roam x 96
+\i (00:09:17) setwindow form.find
+\i (00:09:17) FORM find all_off  
+\i (00:09:22) FORM find shapes YES 
+\i (00:09:22) setwindow pcb
+\i (00:09:22) roam y -96 
+\i (00:09:22) roam y -96
+\i (00:09:22) roam y -96 
+\i (00:09:22) roam y -96
+\i (00:09:22) roam y -96 
+\i (00:09:22) roam y -96
+\i (00:09:23) zoom in 1 
+\i (00:09:23) setwindow pcb
+\i (00:09:23) zoom in 1516.56 1519.92
+\i (00:09:23) trapsize 82
+\i (00:09:23) zoom in 1 
+\i (00:09:23) setwindow pcb
+\i (00:09:23) zoom in 1516.57 1519.92
+\i (00:09:23) trapsize 41
+\i (00:09:24) pick grid 1526.44 1526.42
+\t (00:09:24) last pick:  1526.00 1526.00
+\i (00:09:24) pick grid 1526.94 1526.75
+\t (00:09:24) last pick:  1527.00 1527.00
+\i (00:09:28) pick grid 1524.55 1515.23
+\t (00:09:28) last pick:  1525.00 1515.00
+\i (00:09:29) prepopup 1524.63 1515.23
+\i (00:09:29) pick grid 1523.73 1520.83
+\t (00:09:29) last pick:  1524.00 1521.00
+\i (00:09:30) pick grid 1527.18 1526.01
+\t (00:09:30) last pick:  1527.00 1526.00
+\i (00:09:31) drag_start grid 1526.94 1526.01
+\i (00:09:31) move 
+\t (00:09:31) last pick:  1527.00 1526.00
+\t (00:09:31) Element has no origin, using pick.
+\t (00:09:31) Pick new location for the element(s).
+\i (00:09:33) drag_stop grid 1524.63 1523.13
+\i (00:09:33) generaledit 
+\i (00:09:34) zoom out 1 
+\i (00:09:34) setwindow pcb
+\i (00:09:34) zoom out 1524.71 1522.39
+\i (00:09:34) trapsize 82
+\i (00:09:34) zoom out 1 
+\i (00:09:34) setwindow pcb
+\i (00:09:34) zoom out 1524.72 1522.39
+\i (00:09:34) trapsize 165
+\i (00:09:34) zoom out 1 
+\i (00:09:34) setwindow pcb
+\i (00:09:34) zoom out 1524.06 1521.40
+\i (00:09:34) trapsize 329
+\i (00:09:34) zoom out 1 
+\i (00:09:34) setwindow pcb
+\i (00:09:34) zoom out 1510.23 1477.96
+\i (00:09:34) trapsize 658
+\i (00:09:34) zoom out 1 
+\i (00:09:34) setwindow pcb
+\i (00:09:34) zoom out 1510.23 1474.00
+\i (00:09:34) trapsize 1316
+\i (00:09:34) zoom out 1 
+\i (00:09:34) setwindow pcb
+\i (00:09:34) zoom out 1510.24 1468.74
+\i (00:09:34) trapsize 2633
+\i (00:09:35) zoom in 1 
+\i (00:09:35) setwindow pcb
+\i (00:09:35) zoom in 1540.39 1368.69
+\i (00:09:35) trapsize 1316
+\i (00:09:35) zoom in 1 
+\i (00:09:35) setwindow pcb
+\i (00:09:35) zoom in 1532.49 1368.69
+\i (00:09:35) trapsize 658
+\i (00:09:36) zoom in 1 
+\i (00:09:36) setwindow pcb
+\i (00:09:36) zoom in 1521.96 1452.95
+\i (00:09:36) trapsize 329
+\i (00:09:36) zoom in 1 
+\i (00:09:36) setwindow pcb
+\i (00:09:36) zoom in 1521.96 1452.96
+\i (00:09:36) trapsize 165
+\i (00:09:36) zoom in 1 
+\i (00:09:36) setwindow pcb
+\i (00:09:36) zoom in 1521.96 1453.29
+\i (00:09:36) trapsize 82
+\i (00:09:36) zoom in 1 
+\i (00:09:36) setwindow pcb
+\i (00:09:36) zoom in 1521.97 1454.28
+\i (00:09:36) trapsize 41
+\i (00:09:37) prepopup 1525.26 1458.89
+\i (00:09:38) pop dyn_option_select @:@Delete 
+\i (00:09:38) delete 
+\i (00:09:38) generaledit 
+\i (00:09:38) zoom out 1 
+\i (00:09:38) setwindow pcb
+\i (00:09:38) zoom out 1521.73 1454.53
+\i (00:09:38) trapsize 82
+\i (00:09:38) zoom out 1 
+\i (00:09:38) setwindow pcb
+\i (00:09:38) zoom out 1521.23 1453.53
+\i (00:09:38) trapsize 165
+\i (00:09:38) zoom out 1 
+\i (00:09:38) setwindow pcb
+\i (00:09:38) zoom out 1520.90 1452.88
+\i (00:09:38) trapsize 329
+\i (00:09:38) roam x -96 
+\i (00:09:38) roam x -96
+\i (00:09:38) roam y 96 
+\i (00:09:38) roam y 96
+\i (00:09:38) zoom out 1 
+\i (00:09:38) setwindow pcb
+\i (00:09:38) zoom out 1454.03 1380.71
+\i (00:09:38) trapsize 658
+\i (00:09:39) roam x -96 
+\i (00:09:39) roam x -96
+\i (00:09:39) zoom out 1 
+\i (00:09:39) setwindow pcb
+\i (00:09:39) zoom out 1326.34 1378.07
+\i (00:09:39) trapsize 1316
+\i (00:09:39) roam y 96 
+\i (00:09:39) roam y 96
+\i (00:09:39) roam x -96 
+\i (00:09:39) roam x -96
+\i (00:09:40) roam y 96 
+\i (00:09:40) roam y 96
+\i (00:09:41) roam x -96 
+\i (00:09:41) roam x -96
+\i (00:09:43) roam y -96 
+\i (00:09:43) roam y -96
+\i (00:09:43) roam y -96 
+\i (00:09:43) roam y -96
+\i (00:09:44) zoom in 1 
+\i (00:09:44) setwindow pcb
+\i (00:09:44) zoom in 63.83 349.24
+\i (00:09:44) trapsize 658
+\i (00:09:44) zoom in 1 
+\i (00:09:44) setwindow pcb
+\i (00:09:44) zoom in 65.14 341.34
+\i (00:09:44) trapsize 329
+\i (00:09:45) zoom out 1 
+\i (00:09:45) setwindow pcb
+\i (00:09:45) zoom out 141.50 315.67
+\i (00:09:45) trapsize 658
+\i (00:09:45) zoom out 1 
+\i (00:09:45) setwindow pcb
+\i (00:09:45) zoom out 141.50 324.89
+\i (00:09:45) trapsize 1316
+\i (00:09:46) roam y 96 
+\i (00:09:46) roam y 96
+\i (00:09:47) roam y 96 
+\i (00:09:47) roam y 96
+\i (00:09:47) zoom in 1 
+\i (00:09:47) setwindow pcb
+\i (00:09:47) zoom in 96.73 46.44
+\i (00:09:47) trapsize 658
+\i (00:09:47) zoom in 1 
+\i (00:09:47) setwindow pcb
+\i (00:09:47) zoom in 96.74 46.45
+\i (00:09:47) trapsize 329
+\i (00:09:49) zoom in 1 
+\i (00:09:49) setwindow pcb
+\i (00:09:49) zoom in 151.37 298.55
+\i (00:09:49) trapsize 165
+\i (00:09:51) roam y -96 
+\i (00:09:51) roam y -96
+\i (00:09:51) zoom out 1 
+\i (00:09:51) setwindow pcb
+\i (00:09:51) zoom out 152.36 327.51
+\i (00:09:51) trapsize 329
+\i (00:09:52) roam y -96 
+\i (00:09:52) roam y -96
+\i (00:09:52) zoom out 1 
+\i (00:09:52) setwindow pcb
+\i (00:09:52) zoom out 152.37 390.05
+\i (00:09:52) trapsize 658
+\i (00:09:52) roam y -96 
+\i (00:09:52) roam y -96
+\i (00:09:53) roam y -96 
+\i (00:09:53) roam y -96
+\i (00:09:53) zoom out 1 
+\i (00:09:53) setwindow pcb
+\i (00:09:53) zoom out 153.68 642.81
+\i (00:09:53) trapsize 1316
+\i (00:09:53) roam x 96 
+\i (00:09:53) roam x 96
+\i (00:09:53) roam y -96 
+\i (00:09:53) roam y -96
+\i (00:09:53) roam y -96 
+\i (00:09:53) roam y -96
+\i (00:09:56) shape add rect 
+\i (00:09:56) zoom in 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom in 0.63 1470.89
+\i (00:09:56) trapsize 658
+\i (00:09:56) roam y -96 
+\i (00:09:56) roam y -96
+\i (00:09:56) zoom in 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom in 1.95 1597.27
+\i (00:09:56) trapsize 329
+\i (00:09:57) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in 94.11 1529.48
+\i (00:09:57) trapsize 165
+\i (00:09:57) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in 92.80 1526.52
+\i (00:09:57) trapsize 82
+\i (00:09:57) zoom in 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom in 90.99 1523.39
+\i (00:09:57) trapsize 41
+\i (00:09:59) pick grid 47.63 1526.85
+\t (00:09:59) last pick:  48.00 1527.00
+\i (00:10:00) zoom in 1 
+\i (00:10:00) setwindow pcb
+\i (00:10:00) zoom in 51.01 1520.43
+\i (00:10:00) trapsize 21
+\i (00:10:01) zoom in 1 
+\i (00:10:01) setwindow pcb
+\i (00:10:01) zoom in 51.01 1520.52
+\i (00:10:01) trapsize 10
+\i (00:10:01) roam y -96 
+\i (00:10:01) roam y -96
+\i (00:10:01) roam x -96 
+\i (00:10:01) roam x -96
+\i (00:10:01) roam y -96 
+\i (00:10:01) roam y -96
+\i (00:10:03) roam x 96 
+\i (00:10:03) roam x 96
+\i (00:10:03) roam y 96 
+\i (00:10:03) roam y 96
+\i (00:10:03) zoom out 1 
+\i (00:10:03) setwindow pcb
+\i (00:10:03) zoom out 56.79 1518.15
+\i (00:10:03) trapsize 21
+\i (00:10:03) zoom out 1 
+\i (00:10:03) setwindow pcb
+\i (00:10:03) zoom out 57.58 1517.70
+\i (00:10:03) trapsize 41
+\i (00:10:03) roam y 96 
+\i (00:10:03) roam y 96
+\i (00:10:03) roam x 96 
+\i (00:10:03) roam x 96
+\i (00:10:03) zoom out 1 
+\i (00:10:03) setwindow pcb
+\i (00:10:03) zoom out 83.24 1502.97
+\i (00:10:03) trapsize 82
+\i (00:10:04) zoom out 1 
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom out 90.32 1500.83
+\i (00:10:04) trapsize 165
+\i (00:10:04) roam x 96 
+\i (00:10:04) roam x 96
+\i (00:10:04) roam x 96 
+\i (00:10:04) roam x 96
+\i (00:10:04) roam x 96 
+\i (00:10:04) roam x 96
+\i (00:10:04) roam y 96 
+\i (00:10:04) roam y 96
+\i (00:10:04) roam x 96 
+\i (00:10:04) roam x 96
+\i (00:10:04) roam y 96 
+\i (00:10:04) roam y 96
+\i (00:10:05) roam x 96 
+\i (00:10:05) roam x 96
+\i (00:10:05) zoom out 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom out 336.01 1412.96
+\i (00:10:05) trapsize 329
+\i (00:10:05) zoom out 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom out 336.01 1410.32
+\i (00:10:05) trapsize 658
+\i (00:10:05) zoom out 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom out 338.64 1409.01
+\i (00:10:05) trapsize 1316
+\i (00:10:05) roam y 96 
+\i (00:10:05) roam y 96
+\i (00:10:05) zoom out 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom out 491.34 1149.66
+\i (00:10:05) trapsize 2633
+\i (00:10:05) zoom out 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom out 522.94 1102.28
+\i (00:10:05) trapsize 5266
+\i (00:10:05) zoom out 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom out 723.04 1028.55
+\i (00:10:05) trapsize 10533
+\i (00:10:06) roam y 96 
+\i (00:10:06) zoom in 1 
+\i (00:10:06) setwindow pcb
+\i (00:10:06) zoom in 1326.64 -363.57
+\i (00:10:06) trapsize 5266
+\i (00:10:07) zoom in 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) zoom in 1387.36 15.62
+\i (00:10:07) trapsize 2633
+\i (00:10:07) zoom in 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) zoom in 1550.62 -63.38
+\i (00:10:07) trapsize 1317
+\i (00:10:07) zoom in 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) zoom in 1553.25 -63.38
+\i (00:10:07) trapsize 658
+\i (00:10:08) zoom in 1 
+\i (00:10:08) setwindow pcb
+\i (00:10:08) zoom in 1533.50 38.00
+\i (00:10:08) trapsize 329
+\i (00:10:08) zoom in 1 
+\i (00:10:08) setwindow pcb
+\i (00:10:08) zoom in 1534.82 43.27
+\i (00:10:08) trapsize 165
+\i (00:10:08) zoom in 1 
+\i (00:10:08) setwindow pcb
+\i (00:10:08) zoom in 1528.89 54.14
+\i (00:10:08) trapsize 82
+\i (00:10:08) zoom in 1 
+\i (00:10:08) setwindow pcb
+\i (00:10:08) zoom in 1528.56 53.97
+\i (00:10:08) trapsize 41
+\i (00:10:08) zoom in 1 
+\i (00:10:08) setwindow pcb
+\i (00:10:08) zoom in 1528.48 53.81
+\i (00:10:08) trapsize 21
+\i (00:10:09) zoom in 1 
+\i (00:10:09) setwindow pcb
+\i (00:10:09) zoom in 1526.46 50.64
+\i (00:10:09) trapsize 10
+\i (00:10:09) zoom in 1 
+\i (00:10:09) setwindow pcb
+\i (00:10:09) zoom in 1526.47 50.46
+\i (00:10:09) trapsize 5
+\i (00:10:14) pick grid 1527.24 47.50
+\t (00:10:14) last pick:  1527.00 48.00
+\i (00:10:14) zoom out 1 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom out 1527.30 47.75
+\i (00:10:14) trapsize 10
+\i (00:10:14) zoom out 1 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom out 1527.27 47.74
+\i (00:10:14) trapsize 21
+\i (00:10:14) zoom out 1 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom out 1527.19 47.74
+\i (00:10:14) trapsize 41
+\i (00:10:14) zoom out 1 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom out 1526.86 47.74
+\i (00:10:14) trapsize 82
+\i (00:10:14) roam x -96 
+\i (00:10:14) roam x -96
+\i (00:10:15) zoom out 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom out 1508.34 51.69
+\i (00:10:15) trapsize 165
+\i (00:10:15) zoom out 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom out 1507.68 51.69
+\i (00:10:15) trapsize 329
+\i (00:10:15) zoom out 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom out 1507.68 51.69
+\i (00:10:15) trapsize 658
+\i (00:10:15) roam y -96 
+\i (00:10:15) roam y -96
+\i (00:10:15) zoom out 1 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) zoom out 1507.69 176.78
+\i (00:10:15) trapsize 1316
+\i (00:10:15) roam x -96 
+\i (00:10:15) roam x -96
+\i (00:10:17) setwindow form.mini
+\i (00:10:17) FORM mini dyns_netname_list  
+\i (00:10:19) fillin "Gnd"
+\t (00:10:19) Assigning selected shape to net: GND
+\i (00:10:20) setwindow pcb
+\i (00:10:20) roam x 96 
+\i (00:10:20) roam x 96
+\i (00:10:20) roam y -96 
+\i (00:10:20) roam y -96
+\i (00:10:21) roam y 96 
+\i (00:10:21) roam y 96
+\i (00:10:21) roam x -96 
+\i (00:10:21) roam x -96
+\i (00:10:21) zoom in 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom in 369.25 430.86
+\i (00:10:21) trapsize 658
+\i (00:10:22) zoom in 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom in 370.57 412.43
+\i (00:10:22) trapsize 329
+\i (00:10:22) roam y 96 
+\i (00:10:22) roam y 96
+\i (00:10:22) roam y 96 
+\i (00:10:22) roam y 96
+\i (00:10:22) zoom out 1 
+\i (00:10:23) setwindow pcb
+\i (00:10:23) zoom out 277.76 220.88
+\i (00:10:23) trapsize 658
+\i (00:10:23) roam x 96 
+\i (00:10:23) roam x 96
+\i (00:10:23) roam x 96 
+\i (00:10:23) roam x 96
+\i (00:10:23) zoom out 1 
+\i (00:10:23) setwindow pcb
+\i (00:10:23) zoom out 569.35 235.36
+\i (00:10:23) trapsize 1316
+\i (00:11:12) zoom in 1 
+\i (00:11:12) setwindow pcb
+\i (00:11:12) zoom in 1051.19 698.76
+\i (00:11:12) trapsize 658
+\i (00:11:14) zoom out 1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) zoom out 902.43 530.25
+\i (00:11:14) trapsize 1316
+\i (00:11:14) zoom out 1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) zoom out 902.43 530.25
+\i (00:11:14) trapsize 2633
+\i (00:11:14) zoom in 1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) zoom in 402.15 -70.07
+\i (00:11:14) trapsize 1316
+\i (00:11:14) zoom in 1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) zoom in 367.93 -49.01
+\i (00:11:14) trapsize 658
+\i (00:11:15) zoom in 1 
+\i (00:11:15) setwindow pcb
+\i (00:11:15) zoom in 155.97 172.16
+\i (00:11:15) trapsize 329
+\i (00:11:15) zoom in 1 
+\i (00:11:15) setwindow pcb
+\i (00:11:15) zoom in 188.89 188.62
+\i (00:11:15) trapsize 165
+\i (00:11:15) zoom in 1 
+\i (00:11:15) setwindow pcb
+\i (00:11:15) zoom in 191.20 189.28
+\i (00:11:15) trapsize 82
+\i (00:11:16) zoom out 1 
+\i (00:11:16) setwindow pcb
+\i (00:11:16) zoom out 192.35 189.12
+\i (00:11:16) trapsize 165
+\i (00:11:16) zoom out 1 
+\i (00:11:16) setwindow pcb
+\i (00:11:16) zoom out 192.35 188.46
+\i (00:11:16) trapsize 329
+\i (00:11:16) zoom out 1 
+\i (00:11:16) setwindow pcb
+\i (00:11:16) zoom out 192.35 188.45
+\i (00:11:16) trapsize 658
+\i (00:11:16) zoom out 1 
+\i (00:11:16) setwindow pcb
+\i (00:11:16) zoom out 542.54 216.10
+\i (00:11:16) trapsize 1316
+\i (00:11:18) zoom out 1 
+\i (00:11:18) setwindow pcb
+\i (00:11:18) zoom out 1411.43 1161.34
+\i (00:11:18) trapsize 2633
+\i (00:11:18) zoom out 1 
+\i (00:11:18) setwindow pcb
+\i (00:11:18) zoom out 1427.22 1187.67
+\i (00:11:18) trapsize 5266
+\i (00:11:18) zoom in 1 
+\i (00:11:18) setwindow pcb
+\i (00:11:18) zoom in 1553.60 1556.29
+\i (00:11:18) trapsize 2633
+\i (00:11:18) zoom in 1 
+\i (00:11:18) setwindow pcb
+\i (00:11:18) zoom in 1553.60 1556.29
+\i (00:11:18) trapsize 1316
+\i (00:11:19) zoom in 1 
+\i (00:11:19) setwindow pcb
+\i (00:11:19) zoom in 1453.55 1450.97
+\i (00:11:19) trapsize 658
+\i (00:11:19) zoom out 1 
+\i (00:11:19) setwindow pcb
+\i (00:11:19) zoom out 683.41 1037.59
+\i (00:11:19) trapsize 1316
+\i (00:11:20) zoom out 1 
+\i (00:11:20) setwindow pcb
+\i (00:11:20) zoom out 683.41 1037.60
+\i (00:11:20) trapsize 2633
+\i (00:11:21) save 
+\i (00:11:22) fillin yes 
+\i (00:11:22) generaledit 
+\i (00:11:23) zoom in 1 
+\i (00:11:23) setwindow pcb
+\i (00:11:23) zoom in 1177.04 237.18
+\i (00:11:23) trapsize 1316
+\i (00:11:23) zoom in 1 
+\i (00:11:23) setwindow pcb
+\i (00:11:23) zoom in 1163.87 255.61
+\i (00:11:23) trapsize 658
+\i (00:11:24) zoom out 1 
+\i (00:11:24) setwindow pcb
+\i (00:11:24) zoom out 1029.60 408.33
+\i (00:11:24) trapsize 1316
+\i (00:11:24) zoom out 1 
+\i (00:11:24) setwindow pcb
+\i (00:11:24) zoom out 903.21 529.44
+\i (00:11:24) trapsize 2633
+\i (00:11:25) zoom in 1 
+\i (00:11:25) setwindow pcb
+\i (00:11:25) zoom in 408.21 697.95
+\i (00:11:25) trapsize 1316
+\i (00:11:25) zoom in 1 
+\i (00:11:25) setwindow pcb
+\i (00:11:25) zoom in 687.30 747.98
+\i (00:11:25) trapsize 658
+\i (00:11:26) zoom out 1 
+\i (00:11:26) setwindow pcb
+\i (00:11:26) zoom out 709.68 746.67
+\i (00:11:26) trapsize 1316
+\i (00:11:40) zoom in 1 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom in 1120.42 433.34
+\i (00:11:40) trapsize 658
+\i (00:11:40) zoom in 1 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom in 1124.37 432.03
+\i (00:11:40) trapsize 329
+\i (00:11:41) zoom out 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom out 1315.92 508.39
+\i (00:11:41) trapsize 658
+\i (00:11:42) zoom in 1 
+\i (00:11:42) setwindow pcb
+\i (00:11:42) zoom in 1321.18 497.85
+\i (00:11:42) trapsize 329
+\i (00:11:43) zoom out 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom out 1038.80 715.07
+\i (00:11:43) trapsize 658
+\i (00:11:43) zoom out 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom out 1030.89 716.39
+\i (00:11:43) trapsize 1316
+\i (00:11:44) zoom in 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom in 483.24 484.68
+\i (00:11:44) trapsize 658
+\i (00:11:44) zoom out 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom out 487.20 482.05
+\i (00:11:44) trapsize 1316
+\i (00:11:44) zoom out 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom out 495.09 482.06
+\i (00:11:44) trapsize 2633
+\i (00:11:45) zoom in 1 
+\i (00:11:45) setwindow pcb
+\i (00:11:45) zoom in 834.75 961.26
+\i (00:11:45) trapsize 1316
+\i (00:11:45) zoom in 1 
+\i (00:11:45) setwindow pcb
+\i (00:11:45) zoom in 834.75 961.26
+\i (00:11:45) trapsize 658
+\i (00:11:45) zoom in 1 
+\i (00:11:45) setwindow pcb
+\i (00:11:45) zoom in 834.75 961.26
+\i (00:11:45) trapsize 329
+\i (00:11:46) zoom out 1 
+\i (00:11:46) setwindow pcb
+\i (00:11:46) zoom out 780.12 875.70
+\i (00:11:46) trapsize 658
+\i (00:11:46) zoom out 1 
+\i (00:11:46) setwindow pcb
+\i (00:11:46) zoom out 774.85 879.64
+\i (00:11:46) trapsize 1316
+\i (00:11:47) zoom out 1 
+\i (00:11:47) setwindow pcb
+\i (00:11:47) zoom out 774.86 879.64
+\i (00:11:47) trapsize 2633
+\i (00:11:47) zoom in 1 
+\i (00:11:47) setwindow pcb
+\i (00:11:47) zoom in 734.70 1264.06
+\i (00:11:47) trapsize 1316
+\i (00:11:47) zoom in 1 
+\i (00:11:47) setwindow pcb
+\i (00:11:47) zoom in 739.97 1264.06
+\i (00:11:47) trapsize 658
+\i (00:12:00) artwork 
+\i (00:12:05) setwindow form.film_control
+\i (00:12:05) FORM film_control filmtree  TOP 
+\i (00:12:09) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:12:13) FORM film_control create  
+\t (00:12:13) Checking db records
+\t (00:12:13)     checking for orphans...
+\t (00:12:13)     Checked 100 percent
+\t (00:12:13) Done dbdoctor.
+\t (00:12:13) Starting Create artwork films...
+\t (00:12:15) Plot generated.
+\i (00:12:19) FORM film_control filmtree 'MULTISEL NO' TOP 
+\i (00:12:22) FORM film_control filmtree  SMTOP 
+\i (00:12:23) FORM film_control filmtree popup 'Display for Visibility' SMTOP 
+\i (00:12:24) setwindow pcb
+\i (00:12:24) zoom out 1 
+\i (00:12:24) setwindow pcb
+\i (00:12:24) zoom out 600.42 571.59
+\i (00:12:24) trapsize 1316
+\i (00:12:24) zoom out 1 
+\i (00:12:24) setwindow pcb
+\i (00:12:24) zoom out 584.62 553.16
+\i (00:12:24) trapsize 2633
+\i (00:12:24) zoom in 1 
+\i (00:12:24) setwindow pcb
+\i (00:12:24) zoom in 255.50 263.54
+\i (00:12:24) trapsize 1316
+\i (00:12:25) zoom in 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom in 260.77 260.91
+\i (00:12:25) trapsize 658
+\i (00:12:25) zoom out 1 
+\i (00:12:25) setwindow pcb
+\i (00:12:25) zoom out 269.98 267.50
+\i (00:12:25) trapsize 1316
+\i (00:12:28) setwindow form.film_control
+\i (00:12:28) FORM film_control filmtree 'MULTISEL YES' SMTOP 
+\i (00:12:30) FORM film_control create  
+\t (00:12:30) Starting Create artwork films...
+\t (00:12:31) Plot generated.
+\i (00:12:33) FORM film_control filmtree 'MULTISEL NO' SMTOP 
+\i (00:12:37) FORM film_control filmtree 'MULTISEL YES' SPTOP 
+\i (00:12:37) FORM film_control filmtree  SPTOP 
+\i (00:12:40) FORM film_control filmtree popup 'Display for Artwork Check' SPTOP 
+\i (00:12:44) FORM film_control filmtree  TOP 
+\i (00:12:46) FORM film_control filmtree popup 'Display for Visibility' TOP 
+\i (00:12:48) FORM film_control filmtree  SPTOP 
+\i (00:12:49) FORM film_control filmtree popup 'Display for Artwork Check' SPTOP 
+\i (00:12:55) FORM film_control create  
+\t (00:12:55) Starting Create artwork films...
+\t (00:12:56) Plot generated.
+\i (00:12:58) FORM film_control filmtree  TOP 
+\i (00:13:01) FORM film_control cancel  
+\i (00:13:01) setwindow pcb
+\i (00:13:01) generaledit 
+\i (00:13:46) zoom in 1 
+\i (00:13:46) setwindow pcb
+\i (00:13:46) zoom in 69.88 1960.49
+\i (00:13:46) trapsize 658
+\i (00:13:49) board outline 
+   (00:13:49) Loading signal.cxt 
+   (00:13:49) Loading floor.cxt 
+   (00:13:49) Loading fputil.cxt 
+\i (00:14:05) setwindow form.fpbdoutline
+\i (00:14:05) FORM fpbdoutline cancel  
+\i (00:14:05) setwindow pcb
+\i (00:14:05) generaledit 
+\i (00:14:06) zoom out 1 
+\i (00:14:06) setwindow pcb
+\i (00:14:06) zoom out 778.15 1720.90
+\i (00:14:06) trapsize 1316
+\i (00:14:06) zoom out 1 
+\i (00:14:06) setwindow pcb
+\i (00:14:06) zoom out 775.51 1718.26
+\i (00:14:06) trapsize 2633
+\i (00:14:06) zoom in 1 
+\i (00:14:06) setwindow pcb
+\i (00:14:06) zoom in 1349.50 512.36
+\i (00:14:06) trapsize 1316
+\i (00:14:07) zoom in 1 
+\i (00:14:07) setwindow pcb
+\i (00:14:07) zoom in 1291.57 596.61
+\i (00:14:07) trapsize 658
+\i (00:14:07) zoom in 1 
+\i (00:14:07) setwindow pcb
+\i (00:14:07) zoom in 1282.36 645.32
+\i (00:14:07) trapsize 329
+\i (00:14:07) zoom out 1 
+\i (00:14:07) setwindow pcb
+\i (00:14:07) zoom out 1280.39 649.27
+\i (00:14:07) trapsize 658
+\i (00:14:07) zoom out 1 
+\i (00:14:07) setwindow pcb
+\i (00:14:07) zoom out 1280.38 646.64
+\i (00:14:07) trapsize 1316
+\i (00:14:20) color192 
+\i (00:14:21) generaledit 
+\i (00:14:22) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:14:23) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:14:24) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:14:25) zoom in 1 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) zoom in 1188.23 507.09
+\i (00:14:25) trapsize 658
+\i (00:14:25) zoom in 1 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) zoom in 1188.23 507.09
+\i (00:14:25) trapsize 329
+\i (00:14:26) zoom in 1 
+\i (00:14:26) setwindow pcb
+\i (00:14:26) zoom in 1166.52 385.32
+\i (00:14:26) trapsize 165
+\i (00:14:27) zoom out 1 
+\i (00:14:27) setwindow pcb
+\i (00:14:27) zoom out 1171.45 426.46
+\i (00:14:27) trapsize 329
+\i (00:14:27) zoom out 1 
+\i (00:14:27) setwindow pcb
+\i (00:14:27) zoom out 1171.46 427.12
+\i (00:14:27) trapsize 658
+\i (00:14:29) zoom out 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom out 1168.82 895.79
+\i (00:14:29) trapsize 1316
+\i (00:14:29) zoom out 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom out 1168.83 895.79
+\i (00:14:29) trapsize 2633
+\i (00:14:30) zoom in 1 
+\i (00:14:30) setwindow pcb
+\i (00:14:30) zoom in 1142.50 1411.85
+\i (00:14:30) trapsize 1316
+\i (00:14:30) zoom in 1 
+\i (00:14:30) setwindow pcb
+\i (00:14:30) zoom in 1142.49 1411.85
+\i (00:14:30) trapsize 658
+\i (00:14:32) zoom in 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom in 567.19 1302.59
+\i (00:14:32) trapsize 329
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 660.66 1295.35
+\i (00:14:33) trapsize 658
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 1010.84 1037.31
+\i (00:14:33) trapsize 1316
+\i (00:14:37) status 
+\i (00:14:37) generaledit 
+\i (00:14:40) setwindow form.status
+\i (00:14:40) FORM status drc_update  
+\t (00:14:40) Running DRC, wait...
+\t (00:14:40) Performing DRC...
+\t (00:14:40) Multithreaded DRC update (12 threads).
+\t (00:14:40) No DRC errors detected.
+\t (00:14:40) DRC done.
+\i (00:14:42) FORM status done  
+\i (00:14:43) setwindow pcb
+\i (00:14:43) exit 
+\e (00:14:43) Do you want to save the changes you made to C:/Users/kellyy/Desktop/P1/allegro/OSCILATOR4.brd?
+\i (00:14:45) fillin yes 
+\t (00:14:45)     Journal end - Tue Dec 19 00:29:20 2023

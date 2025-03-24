@@ -1,0 +1,71 @@
+
+**** 11/10/23 14:04:17 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC2-sim2"  [ c:\users\vladc\desktop\tie\p1-pspicefiles\schematic2\sim2.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "sim2.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\vladc\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 500ms 0 50u 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC2.net" 
+
+
+
+**** INCLUDING SCHEMATIC2.net ****
+* source P1
+R_R1         0 N00078  2.2k TC=0,0 
+R_R2         N06630 VCC  2k TC=0,0 
+R_R3         N00213 VCC  1k TC=0,0 
+R_R4         N00470 N00266  680 TC=0,0 
+R_R5         N00226 N00266  1k TC=0,0 
+R_R6         N00470 0  330 TC=0,0 
+C_C4         N00226 N00213  220n  TC=0,0 
+C_C6         N00213 VCC  220n  TC=0,0 
+Q_Q3         N00281 N00078 N06630 BC856B 
+Q_Q1         N00281 N00266 0 BC846B 
+Q_Q2         N00213 N00281 N00470 BC846B 
+X_D4         N00078 VCC awbbzx84c2v7 PARAMS:               
+C_C7         N00213 N21455  1n  TC=0,0 
+V_V1         VCC 0 11Vdc
+Q_Q4         N19939 N21455 N16752 BC846B 
+Q_Q5         N16665 N18105 N16752 BC846B 
+R_R8         N19939 VCC  r TC=0,0 
+---------------------------$
+ERROR(ORPSIM-16152): Invalid number: Error while converting token 'TC' to double value. Token can be a constant or expression
+R_R10         N16665 VCC  r TC=0,0 
+----------------------------$
+ERROR(ORPSIM-16152): Invalid number: Error while converting token 'TC' to double value. Token can be a constant or expression
+C_C8         N16665 N16958  1n  TC=0,0 
+R_R11         0 N16958  400 TC=0,0 
+R_R15         N18105 N19939  r TC=0,0 
+-------------------------------$
+ERROR(ORPSIM-16152): Invalid number: Error while converting token 'TC' to double value. Token can be a constant or expression
+R_R16         0 N16752  r TC=0,0 
+--------------------------$
+ERROR(ORPSIM-16152): Invalid number: Error while converting token 'TC' to double value. Token can be a constant or expression
+R_R17         0 N18105  r TC=0,0 
+--------------------------$
+ERROR(ORPSIM-16152): Invalid number: Error while converting token 'TC' to double value. Token can be a constant or expression
+C_C9         N19939 N18105  1u  TC=0,0 
+
+**** RESUMING sim2.cir ****
+.END
+

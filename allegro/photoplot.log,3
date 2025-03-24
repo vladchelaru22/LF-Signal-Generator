@@ -1,0 +1,69 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : OSCILATOR4.brd                                )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Tue Dec 19 00:27:05 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < SMTOP >
+     TO FILE < C:/Users/kellyy/Desktop/P1/allegro/SMTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.10
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06112                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.04600       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.04600      90.000 NO     DARK 
+  RECTANGLE  0.06112     x 0.08868       0.000 NO     DARK 
+  RECTANGLE  0.06112     x 0.08868      90.000 NO     DARK 
+  RECTANGLE  0.08600     x 0.05800      90.000 NO     DARK 
+
+     SMTOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        SMTOP created.
+
+ ARTWORK finished

@@ -1,0 +1,121 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : OSCILATOR.brd                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sat Dec 02 21:57:57 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  POT2 / POT_TS53YL_10K / TS53YL at (269.87 1765.54)
+         Placed symbol:  POT1 / POT_TS53YL_10K / TS53YL at (575.17 1765.54)
+         Placed symbol:  Q5 / BC846B_SOT23_BC846B / SOT23 at (693.60 1672.00)
+         Placed symbol:  Q4 / BC846B_SOT23_BC846B / SOT23 at (846.60 1672.00)
+         Placed symbol:  POT3 / POT_TS53YL_10K / TS53YL at (1186.47 1765.54)
+         Placed symbol:  Q1 / BC856B_SOT23_BC856B / SOT23 at (1304.90 1672.00)
+         Placed symbol:  Q2 / BC846B_SOT23_BC846B / SOT23 at (1457.90 1672.00)
+         Placed symbol:  Q3 / BC846B_SOT23_BC846B / SOT23 at (83.00 1900.53)
+         Placed symbol:  DZ / BZX84C2V7_1_SOT23_BZX84C2V7 / SOT23 at (236.00 1900.53)
+         Placed symbol:  Q6 / BC856B_SOT23_BC856B / SOT23 at (389.00 1900.53)
+         Placed symbol:  C2 / C_SMC0805_220N / SMC0805 at (512.00 1881.03)
+         Placed symbol:  C1 / C_SMC0805_220N / SMC0805 at (690.00 1881.03)
+         Placed symbol:  C3 / C_SMC0805_10U / SMC0805 at (868.00 1881.03)
+         Placed symbol:  C4 / C_SMC0805_10U / SMC0805 at (1046.00 1881.03)
+         Placed symbol:  D2 / D1N4148_SMD080512_D1N4148 / SMD080512 at (1234.50 1896.03)
+         Placed symbol:  R10 / R_SMR0805_5K / SMR0805 at (1408.50 1881.03)
+         Placed symbol:  J2 / CON2_JUMPER2_VCC / JUMPER2 at (62.00 2021.53)
+         Placed symbol:  R16 / R_SMR0805_100K / SMR0805 at (265.00 2012.03)
+         Placed symbol:  R14 / R_SMR0805_25K / SMR0805 at (443.00 2012.03)
+         Placed symbol:  D1 / D1N4148_SMD080512_D1N4148 / SMD080512 at (631.50 2027.03)
+         Placed symbol:  R13 / R_SMR0805_5K / SMR0805 at (805.50 2012.03)
+         Placed symbol:  C5 / C_SMC0805_470N / SMC0805 at (983.50 2012.03)
+         Placed symbol:  J1 / CON2_JUMPER2_LOAD / JUMPER2 at (1170.50 2021.53)
+         Placed symbol:  C6 / C_SMC0805_1N / SMC0805 at (1373.50 2012.03)
+         Placed symbol:  R15 / R_SMR0805_1K / SMR0805 at (53.00 2135.03)
+         Placed symbol:  R9 / R_SMR0805_1K / SMR0805 at (231.00 2135.03)
+         Placed symbol:  R8 / R_SMR0805_150K / SMR0805 at (409.00 2135.03)
+         Placed symbol:  R6 / R_SMR0805_2K / SMR0805 at (587.00 2135.03)
+         Placed symbol:  R7 / R_SMR0805_0.2K / SMR0805 at (765.00 2135.03)
+         Placed symbol:  R2 / R_SMR0805_100 / SMR0805 at (943.00 2135.03)
+         Placed symbol:  R1 / R_SMR0805_100 / SMR0805 at (1121.00 2135.03)
+         Placed symbol:  R11 / R_SMR0805_1K / SMR0805 at (1299.00 2135.03)
+         Placed symbol:  R12 / R_SMR0805_50 / SMR0805 at (53.00 2228.03)
+         Placed symbol:  R3 / R_SMR0805_3.3K / SMR0805 at (231.00 2228.03)
+         Placed symbol:  R5 / R_SMR0805_2.2K / SMR0805 at (409.00 2228.03)
+         Placed symbol:  R4 / R_SMR0805_0.2K / SMR0805 at (587.00 2228.03)
+         Placed symbol:  J4 / CON1_JUMPER1_GND / JUMPER1 at (797.00 2237.53)
+         Placed symbol:  J7 / CON1_JUMPER1_TRIANGLE / JUMPER1 at (932.00 2237.53)
+         Placed symbol:  J5 / CON1_JUMPER1_SIN / JUMPER1 at (1067.00 2237.53)
+         Placed symbol:  J6 / CON1_JUMPER1_SQUARE / JUMPER1 at (1202.00 2237.53)
+         Placed symbol:  J3 / CON1_JUMPER1_GND / JUMPER1 at (1337.00 2237.53)
+
+
+Placed 41 of 41 applicable (41 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+         Placed symbol:  POT2 / POT_TS53YL_10K / TS53YL at (269.87 1765.54)
+         Placed symbol:  POT1 / POT_TS53YL_10K / TS53YL at (575.17 1765.54)
+         Placed symbol:  Q5 / BC846B_SOT23_BC846B / SOT23 at (693.60 1672.00)
+         Placed symbol:  Q4 / BC846B_SOT23_BC846B / SOT23 at (846.60 1672.00)
+         Placed symbol:  POT3 / POT_TS53YL_10K / TS53YL at (1186.47 1765.54)
+         Placed symbol:  Q1 / BC856B_SOT23_BC856B / SOT23 at (1304.90 1672.00)
+         Placed symbol:  Q2 / BC846B_SOT23_BC846B / SOT23 at (1457.90 1672.00)
+         Placed symbol:  Q3 / BC846B_SOT23_BC846B / SOT23 at (83.00 1900.53)
+         Placed symbol:  DZ / BZX84C2V7_1_SOT23_BZX84C2V7 / SOT23 at (236.00 1900.53)
+         Placed symbol:  Q6 / BC856B_SOT23_BC856B / SOT23 at (389.00 1900.53)
+         Placed symbol:  C2 / C_SMC0805_220N / SMC0805 at (512.00 1881.03)
+         Placed symbol:  C1 / C_SMC0805_220N / SMC0805 at (690.00 1881.03)
+         Placed symbol:  C3 / C_SMC0805_10U / SMC0805 at (868.00 1881.03)
+         Placed symbol:  C4 / C_SMC0805_10U / SMC0805 at (1046.00 1881.03)
+         Placed symbol:  D2 / D1N4148_SMD080512_D1N4148 / SMD080512 at (1234.50 1896.03)
+         Placed symbol:  R10 / R_SMR0805_5K / SMR0805 at (1408.50 1881.03)
+         Placed symbol:  J2 / CON2_JUMPER2_VCC / JUMPER2 at (62.00 2021.53)
+         Placed symbol:  R16 / R_SMR0805_100K / SMR0805 at (265.00 2012.03)
+         Placed symbol:  R14 / R_SMR0805_25K / SMR0805 at (443.00 2012.03)
+         Placed symbol:  D1 / D1N4148_SMD080512_D1N4148 / SMD080512 at (631.50 2027.03)
+         Placed symbol:  R13 / R_SMR0805_5K / SMR0805 at (805.50 2012.03)
+         Placed symbol:  C5 / C_SMC0805_470N / SMC0805 at (983.50 2012.03)
+         Placed symbol:  J1 / CON2_JUMPER2_LOAD / JUMPER2 at (1170.50 2021.53)
+         Placed symbol:  C6 / C_SMC0805_1N / SMC0805 at (1373.50 2012.03)
+         Placed symbol:  R15 / R_SMR0805_1K / SMR0805 at (53.00 2135.03)
+         Placed symbol:  R9 / R_SMR0805_1K / SMR0805 at (231.00 2135.03)
+         Placed symbol:  R8 / R_SMR0805_150K / SMR0805 at (409.00 2135.03)
+         Placed symbol:  R6 / R_SMR0805_2K / SMR0805 at (587.00 2135.03)
+         Placed symbol:  R7 / R_SMR0805_0.2K / SMR0805 at (765.00 2135.03)
+         Placed symbol:  R2 / R_SMR0805_100 / SMR0805 at (943.00 2135.03)
+         Placed symbol:  R1 / R_SMR0805_100 / SMR0805 at (1121.00 2135.03)
+         Placed symbol:  R11 / R_SMR0805_1K / SMR0805 at (1299.00 2135.03)
+         Placed symbol:  R12 / R_SMR0805_50 / SMR0805 at (53.00 2228.03)
+         Placed symbol:  R3 / R_SMR0805_3.3K / SMR0805 at (231.00 2228.03)
+         Placed symbol:  R5 / R_SMR0805_2.2K / SMR0805 at (409.00 2228.03)
+         Placed symbol:  R4 / R_SMR0805_0.2K / SMR0805 at (587.00 2228.03)
+         Placed symbol:  J4 / CON1_JUMPER1_GND / JUMPER1 at (797.00 2237.53)
+         Placed symbol:  J7 / CON1_JUMPER1_TRIANGLE / JUMPER1 at (932.00 2237.53)
+         Placed symbol:  J5 / CON1_JUMPER1_SIN / JUMPER1 at (1067.00 2237.53)
+         Placed symbol:  J6 / CON1_JUMPER1_SQUARE / JUMPER1 at (1202.00 2237.53)
+         Placed symbol:  J3 / CON1_JUMPER1_GND / JUMPER1 at (1337.00 2237.53)
+
+
+Placed 41 of 41 applicable (41 total) symbols.
+
+-----------------------------------------------------------------------
+

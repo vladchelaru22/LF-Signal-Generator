@@ -1,0 +1,6 @@
+ lib=C:\Cadence\SPB_17.2\tools\PSpice\Library\diode.lib, offset=19469, size=328
+ lib=C:\Cadence\SPB_17.2\tools\PSpice\Library\ebipolar.lib, offset=20762, size=367
+ lib=C:\Cadence\SPB_17.2\tools\PSpice\Library\ebipolar.lib, offset=25312, size=368
+ lib=C:\Cadence\SPB_17.2\tools\PSpice\Library\diz.lib, offset=237553, size=685
+ lib=C:\Cadence\SPB_17.2\tools\PSpice\Library\breakout.lib, offset=9201, size=133
+ lib=C:\Cadence\SPB_17.2\tools\PSpice\Library\templates.lib, offset=13466, size=8781

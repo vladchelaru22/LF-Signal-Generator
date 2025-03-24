@@ -1,0 +1,264 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/kellyy/Desktop/P1/allegro/OSCILATOR4.brd                           |
+|                                                    Mon Dec 11 16:50:53 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this new net
+                                 C2.1           C3.1           C5.1           
+                                 J1.2           J2.2           J3.1           
+                                 J4.1           R3.2           R4.1           
+                                 R5.1           R12.1          R16.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94313       pins ADDED TO this new net
+                                 DZ.1           DZ.3           J2.1           
+                                 POT3.2         POT3.3         R6.2           
+                                 R7.2           R9.2           R11.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94383       pins ADDED TO this new net
+                                 C1.2           D1.C           D2.A           
+                                 J5.1           Q3.3           R7.1           
+                                 R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94397       pins ADDED TO this new net
+                                 POT3.1         R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94495       pins ADDED TO this new net
+                                 Q6.3           R15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94501       pins ADDED TO this new net
+                                 C1.1           POT1.1         POT1.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94547       pins ADDED TO this new net
+                                 R10.2          R11.1          R13.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94637       pins ADDED TO this new net
+                                 C5.2           R13.1          R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94669       pins ADDED TO this new net
+                                 Q4.3           Q5.1           R9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94751       pins ADDED TO this new net
+                                 Q1.2           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94757       pins ADDED TO this new net
+                                 C6.1           J7.1           Q6.2           
+                                 R16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94781       pins ADDED TO this new net
+                                 POT1.3         R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94831       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/kellyy/Desktop/P1/allegro/OSCILATOR4.brd                           |
+|                                                    Mon Dec 11 16:50:53 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J6.1           Q5.3           R10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94841       pins ADDED TO this new net
+                                 C6.2           J1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N94865       pins ADDED TO this new net
+                                 C4.2           D1.A           D2.C           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95013       pins ADDED TO this new net
+                                 DZ.2           Q1.1           R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95079       pins ADDED TO this new net
+                                 Q4.1           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95085       pins ADDED TO this new net
+                                 Q4.2           Q5.2           R12.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95089       pins ADDED TO this new net
+                                 Q1.3           Q2.3           Q3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95235       pins ADDED TO this new net
+                                 C3.2           Q3.2           R2.1           
+                                 R4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95241       pins ADDED TO this new net
+                                 C2.2           POT2.1         POT2.2         
+                                 Q2.1           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95307       pins ADDED TO this new net
+                                 C4.1           Q2.2           R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95407       pins ADDED TO this new net
+                                 POT2.3         R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N945811      pins ADDED TO this new net
+                                 Q6.1           R14.1          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/kellyy/Desktop/P1/allegro/OSCILATOR4.brd                           |
+|                                                    Mon Dec 11 16:50:53 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BC846B_TO236AA_BC846B
+ BC856B_TO236AA_BC856B
+ BZX84C2V7_1_TO236AA_BZX84C2V7
+ CON1_JUMPER1_GND
+ CON1_JUMPER1_SIN
+ CON1_JUMPER1_SQUARE
+ CON1_JUMPER1_TRIANGLE
+ CON2_JUMPER2_LOAD
+ CON2_JUMPER2_VCC
+ C_SMC0805_1N
+ C_SMC0805_4.7U
+ C_SMC0805_220N
+ C_SMC0805_470N
+ D1N4148_2_SMD0805_D1N4148
+ D1N4148_3_SMD0805_D1N4148
+ POT_TS53YL_10K
+ R_SMR0805_1K
+ R_SMR0805_2.2K
+ R_SMR0805_2K
+ R_SMR0805_3.3K
+ R_SMR0805_4.7K
+ R_SMR0805_22K
+ R_SMR0805_100K
+ R_SMR0805_150K
+ R_SMR0805_51
+ R_SMR0805_100
+ R_SMR0805_220
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/kellyy/Desktop/P1/allegro/OSCILATOR4.brd                           |
+|                                                    Mon Dec 11 16:50:53 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_SMC0805_220N        
+ C2                  C_SMC0805_220N        
+ C3                  C_SMC0805_4.7U        
+ C4                  C_SMC0805_4.7U        
+ C5                  C_SMC0805_470N        
+ C6                  C_SMC0805_1N          
+ D1                  D1N4148_3_SMD0805_D1N4148 
+ D2                  D1N4148_2_SMD0805_D1N4148 
+ DZ                  BZX84C2V7_1_TO236AA_BZX84C2V7 
+ J1                  CON2_JUMPER2_LOAD     
+ J2                  CON2_JUMPER2_VCC      
+ J3                  CON1_JUMPER1_GND      
+ J4                  CON1_JUMPER1_GND      
+ J5                  CON1_JUMPER1_SIN      
+ J6                  CON1_JUMPER1_SQUARE   
+ J7                  CON1_JUMPER1_TRIANGLE 
+ POT1                POT_TS53YL_10K        
+ POT2                POT_TS53YL_10K        
+ POT3                POT_TS53YL_10K        
+ Q1                  BC856B_TO236AA_BC856B 
+ Q2                  BC846B_TO236AA_BC846B 
+ Q3                  BC846B_TO236AA_BC846B 
+ Q4                  BC846B_TO236AA_BC846B 
+ Q5                  BC846B_TO236AA_BC846B 
+ Q6                  BC856B_TO236AA_BC856B 
+ R1                  R_SMR0805_100         
+ R2                  R_SMR0805_100         
+ R3                  R_SMR0805_3.3K        
+ R4                  R_SMR0805_220         
+ R5                  R_SMR0805_2.2K        
+ R6                  R_SMR0805_2K          
+ R7                  R_SMR0805_220         
+ R8                  R_SMR0805_150K        
+ R9                  R_SMR0805_1K          
+ R10                 R_SMR0805_4.7K        
+ R11                 R_SMR0805_1K          
+ R12                 R_SMR0805_51          
+ R13                 R_SMR0805_4.7K        
+ R14                 R_SMR0805_22K         
+ R15                 R_SMR0805_1K          
+ R16                 R_SMR0805_100K        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Users/kellyy/Desktop/P1/allegro/OSCILATOR4.brd                           |
+|                                                    Mon Dec 11 16:50:53 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ D1.C                           PRIM_FILE      .\pstchip.dat
+ D2.C                           PRIM_FILE      .\pstchip.dat
+ DZ.3                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.1                           PRIM_FILE      .\pstchip.dat
+ J4.1                           PRIM_FILE      .\pstchip.dat
+ J5.1                           PRIM_FILE      .\pstchip.dat
+ J6.1                           PRIM_FILE      .\pstchip.dat
+ J7.1                           PRIM_FILE      .\pstchip.dat
+ POT1.2                         PRIM_FILE      .\pstchip.dat
+ POT2.2                         PRIM_FILE      .\pstchip.dat
+ POT3.2                         PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ Q3.2                           PRIM_FILE      .\pstchip.dat
+ Q4.2                           PRIM_FILE      .\pstchip.dat
+ Q5.2                           PRIM_FILE      .\pstchip.dat
+ Q6.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Users/kellyy/Desktop/P1/allegro/OSCILATOR4.brd                           |
+|                                                    Mon Dec 11 16:50:53 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      87                                        |
+|       Comp definitions added:      27                                        |
+|       Components added      :      41                                        |
+|       Slot property added   :      41                                        |
+|                                                                              |
+|   Total ECO changes reported:     196                                        |
+|------------------------------------------------------------------------------|
